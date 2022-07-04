@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *  * main - main block
- *   * Description: Get a random number and check its last digit, compare it wi *    * Return:
- *   *     */
+* main - main block
+* Description: Get a random number and check its last digit, compare it wi *    * Return:
+*/
 int main(void)
 {
 	char c = 'a';
